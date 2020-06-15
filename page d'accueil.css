@@ -1,0 +1,29 @@
+#banner1 {
+
+	display: block;
+background-color: #D12C40 ;
+width:100%;
+height: 50px ;
+}
+#nav {
+	padding: 0; margin: 0;
+}
+#nav li {
+	display: inline;
+	
+}
+#vertical-menu {
+text-align: right;
+font-size:36px;
+text-decoration:underline;
+	display: block;
+
+width:100%;
+height: 50px ;
+}
+.contenu {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
